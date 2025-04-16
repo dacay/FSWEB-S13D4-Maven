@@ -2,6 +2,8 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        Weapon weapon1 = Weapon.CLUB;
+        Weapon weapon2 = Weapon.ARROW;
     }
 }
